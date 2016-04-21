@@ -1,0 +1,48 @@
+body
+{
+	background-color: #303030 ;/* color general de la pagina */
+}
+	<script src="lib/sweet-alert.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="lib/sweet-alert.css">
+
+img
+{
+	cursor: pointer;
+	
+}
+
+#encabezado /* titulo pagina principal */
+{
+	
+	font: italic 60px "";
+	color: white; 
+	margin-left: 470px;
+	text-shadow: 6px 6px 8px red; /* difuminacion */
+	width: 10%;
+ }
+ #contenedor /* listar tareas */
+{
+	background-color: white  ;
+	margin: 0 auto;
+	width: 700px;
+	border-radius: 5px;
+}
+
+#nueva_tarea{
+	padding-top: 10px;
+	background: rgba(255,255,255,0.5);
+	outline: none;
+	font-size: 1.1em;
+	text-align: center;
+	width: 80%;
+}
+
+
+
+
+
+
+
+
+
+
